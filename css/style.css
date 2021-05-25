@@ -1,0 +1,13 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.table-dark a{
+    color: #f8f9fa !important;
+    font-weight: 600 !important;
+    text-decoration: none !important;
+    background-color: #0dcaf0 !important;
+    margin-right: 10px !important;
+    padding: 5px 10px !important;
+    border-radius: 15px !important;
+}
